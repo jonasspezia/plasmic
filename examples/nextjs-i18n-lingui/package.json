@@ -11,15 +11,15 @@
     "i18n-compile": "lingui compile"
   },
   "dependencies": {
-    "@lingui/cli": "^3.16.1",
+    "@lingui/cli": "^5.1.2",
     "@lingui/react": "^3.16.1",
     "@next/font": "13.1.5",
-    "@plasmicapp/cli": "^0.1.203",
+    "@plasmicapp/cli": "^0.1.334",
     "@plasmicapp/loader-nextjs": "^1.0.222",
     "@types/node": "18.11.18",
     "@types/react": "18.0.27",
     "@types/react-dom": "18.0.10",
-    "next": "13.1.5",
+    "next": "14.2.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.9.4"
